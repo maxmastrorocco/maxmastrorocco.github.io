@@ -1,0 +1,28 @@
+body{background-image: url("myBackground.jpg");
+max-width: 750px;
+margin-left: 250px;}
+p{color: rgb(255,255,255);}
+h1{color: rgb(128,128,128);}
+#nav-table{width: 750px;}
+#nav-td{width: 187.5px;text-align:center;}
+#jamaica{
+  width: 400px;
+  float: left;
+  padding-bottom: 12px;
+}
+#wpp{
+  width: 250px;
+  float: right;
+  padding-left: 12px;
+}
+#parents{
+  width: 250px;
+  float: left;
+  padding-left: 12px;
+}
+#sae{
+  width: 250px;
+  float: right;
+}
+
+
