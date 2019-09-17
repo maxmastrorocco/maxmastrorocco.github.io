@@ -1,0 +1,31 @@
+<!Doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> About Me </title>
+    <link rel="stylesheet" type="text/css" href="stylingSheets/about.css"> 
+  </head>
+  <body>
+    <center>
+      <img src=images/myBanner.jpg>
+      <h1>About Me</h1>
+     <table id="nav-table">
+      <tr>
+        <td id="nav-td"> <a href="index.html"> <img src=images/home.png> </a> </td>
+        <td id="nav-td"> <a href="javascripts.html"> <img src=images/javascripts.png> </a> </td>
+        <td id="nav-td"> <a href="apps.html"> <img src=images/apps.png> </a> </td>
+        <td id="nav-td"><a href="about.html"> <img src=images/about.png></a></td>
+      </tr>
+     </table>
+      
+      <br>
+        <p>Hello everyone! My name is Maxwell Mastrorocco and I am currently a Sophomore at the Univeristy of Rhode Island. I study business and computer science. I have never taken any computer science courses before, I am <em><strong>incredibly</strong></em> excited to start them! I enjoy playing soccer and am an active member of the greek life community. Also, I work as a lifeguard over the Summer.</p>
+
+        <img id="jamaica" src="images/jamaica.jpg" align="left">
+        <img id="wpp" src="images/wpp.jpg">
+        <img id="parents" src="images/parents.jpg">
+        <img id="sae" src="images/sae.jpg">
+        
+    </center
+  </body>
+</html>
