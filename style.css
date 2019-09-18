@@ -1,0 +1,10 @@
+body{background-color: rgb(135,206,235);
+}
+#nav-table{width: 750px;}
+
+#nav-td{ width: 250px;text-align:center;}
+
+#diva{
+	width: 750px;
+	margin: auto;
+}
